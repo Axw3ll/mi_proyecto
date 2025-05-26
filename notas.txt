@@ -1,0 +1,12 @@
+un control de versiones es un sistema que registra los cambios realizados en un archivo o en un conjunto de archivos
+a largo del tiempo
+
+El control de versiones nos permite ser mas precisios con los cambios que lanzamos a produccion 
+
+U -> Untracked
+A -> Added
+M -> Modified
+D -> Deleted
+
+
+
